@@ -1,0 +1,1 @@
+{"name":"madar-student-projects","version":"1.0.0","private":true,"type":"module","scripts":{"check":"node --check assets/app.js && node --check assets/store.js && node --test tests/domain.test.js"}}
